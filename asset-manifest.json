@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/assignment/static/css/main.d23ebf91.chunk.css",
-    "main.js": "/assignment/static/js/main.57321ced.chunk.js",
-    "main.js.map": "/assignment/static/js/main.57321ced.chunk.js.map",
-    "runtime-main.js": "/assignment/static/js/runtime-main.5ce660ed.js",
-    "runtime-main.js.map": "/assignment/static/js/runtime-main.5ce660ed.js.map",
-    "static/js/2.c4660714.chunk.js": "/assignment/static/js/2.c4660714.chunk.js",
-    "static/js/2.c4660714.chunk.js.map": "/assignment/static/js/2.c4660714.chunk.js.map",
-    "static/js/3.aa51bc81.chunk.js": "/assignment/static/js/3.aa51bc81.chunk.js",
-    "static/js/3.aa51bc81.chunk.js.map": "/assignment/static/js/3.aa51bc81.chunk.js.map",
+    "main.css": "/assignment/static/css/main.e4fc2d73.chunk.css",
+    "main.js": "/assignment/static/js/main.b416bca4.chunk.js",
+    "main.js.map": "/assignment/static/js/main.b416bca4.chunk.js.map",
+    "runtime-main.js": "/assignment/static/js/runtime-main.36cc0190.js",
+    "runtime-main.js.map": "/assignment/static/js/runtime-main.36cc0190.js.map",
+    "static/js/2.8915f375.chunk.js": "/assignment/static/js/2.8915f375.chunk.js",
+    "static/js/2.8915f375.chunk.js.map": "/assignment/static/js/2.8915f375.chunk.js.map",
+    "static/js/3.abb0c5fd.chunk.js": "/assignment/static/js/3.abb0c5fd.chunk.js",
+    "static/js/3.abb0c5fd.chunk.js.map": "/assignment/static/js/3.abb0c5fd.chunk.js.map",
     "index.html": "/assignment/index.html",
-    "static/css/main.d23ebf91.chunk.css.map": "/assignment/static/css/main.d23ebf91.chunk.css.map",
-    "static/js/2.c4660714.chunk.js.LICENSE.txt": "/assignment/static/js/2.c4660714.chunk.js.LICENSE.txt"
+    "static/css/main.e4fc2d73.chunk.css.map": "/assignment/static/css/main.e4fc2d73.chunk.css.map",
+    "static/js/2.8915f375.chunk.js.LICENSE.txt": "/assignment/static/js/2.8915f375.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/assignment/static/media/Spartan-SemiBold.88d40279.ttf",
+    "static/media/enjoyable-place-desktop.06399aa5.jpg": "/assignment/static/media/enjoyable-place-desktop.06399aa5.jpg",
+    "static/media/hero-bg-desktop.jpg": "/assignment/static/media/hero-bg-desktop.b1340563.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ce660ed.js",
-    "static/js/2.c4660714.chunk.js",
-    "static/css/main.d23ebf91.chunk.css",
-    "static/js/main.57321ced.chunk.js"
+    "static/js/runtime-main.36cc0190.js",
+    "static/js/2.8915f375.chunk.js",
+    "static/css/main.e4fc2d73.chunk.css",
+    "static/js/main.b416bca4.chunk.js"
   ]
 }
