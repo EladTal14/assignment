@@ -2,7 +2,7 @@
 @import "setup/variables.scss";
 @import "setup/functions.scss";
 @import "setup/mixins.scss";
-// @import "setup/typography.scss";
+@import "setup/typography.scss";
 
 // Basics
 @import "basics/helpers.scss";
@@ -14,4 +14,4 @@
 @import "views/Home";
 // Components
 @import "components/main-header.scss";
-@import "components/cat-card.scss";
+@import "components/PixelPerfect";

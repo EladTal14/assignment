@@ -1,9 +1,11 @@
-
-
+import { routes } from './routes'
+import { Switch, Route } from 'react-router-dom'
 function App() {
   return (
     <div className="App">
-      <h1>test</h1>
+      <Switch>
+        {routes && routes.map(route => <Route key={route.path} exact component={route.component} path={route.path} />)}
+      </Switch>
     </div>
   );
 }
