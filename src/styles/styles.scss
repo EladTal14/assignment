@@ -8,10 +8,11 @@
 @import "basics/helpers.scss";
 @import "basics/layout.scss";
 @import "basics/base.scss";
-@import "basics/buttons.scss";
 
 //Pages
 @import "views/Home";
 // Components
 @import "components/main-header.scss";
 @import "components/PixelPerfect";
+@import "components/ItemList";
+@import "components/Item";
