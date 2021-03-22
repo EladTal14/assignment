@@ -1,7 +1,6 @@
 
 
 export function Item({ item }) {
-  console.log(item);
   return (
     <>
       <div className="item flex ">
